@@ -1,0 +1,13 @@
+D:\Projects\Umbraco7\Umbraco7.Import\obj\Debug\Umbraco7.Import.csprojResolveAssemblyReference.cache
+D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\Umbraco7.Import.exe.config
+D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\Umbraco7.Import.exe
+D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\Umbraco7.Import.pdb
+D:\Projects\Umbraco7\Umbraco7.Import\obj\Debug\Umbraco7.Import.exe
+D:\Projects\Umbraco7\Umbraco7.Import\obj\Debug\Umbraco7.Import.pdb
+D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\App.config
+D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\App_Data\EnglishNews.json
+D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\App_Data\JapaneseNews.json

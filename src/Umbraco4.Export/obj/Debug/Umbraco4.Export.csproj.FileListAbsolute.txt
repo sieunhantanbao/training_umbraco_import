@@ -1,0 +1,9 @@
+D:\Projects\Umbraco7\Umbraco4.Export\bin\Debug\Umbraco4.Export.exe.config
+D:\Projects\Umbraco7\Umbraco4.Export\bin\Debug\Umbraco4.Export.exe
+D:\Projects\Umbraco7\Umbraco4.Export\bin\Debug\Umbraco4.Export.pdb
+D:\Projects\Umbraco7\Umbraco4.Export\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Umbraco7\Umbraco4.Export\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Umbraco7\Umbraco4.Export\obj\Debug\Umbraco4.Export.csprojResolveAssemblyReference.cache
+D:\Projects\Umbraco7\Umbraco4.Export\obj\Debug\Umbraco4.Export.exe
+D:\Projects\Umbraco7\Umbraco4.Export\obj\Debug\Umbraco4.Export.pdb
+D:\Projects\Umbraco7\Umbraco4.Export\bin\Debug\App_Data\umbraco.config

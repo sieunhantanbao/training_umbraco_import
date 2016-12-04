@@ -1,0 +1,8 @@
+D:\Projects\Sitecore\MyTraining\XMLParsing\XMLParsing\bin\Debug\XMLParsing.exe.config
+D:\Projects\Sitecore\MyTraining\XMLParsing\XMLParsing\bin\Debug\XMLParsing.exe
+D:\Projects\Sitecore\MyTraining\XMLParsing\XMLParsing\bin\Debug\XMLParsing.pdb
+D:\Projects\Sitecore\MyTraining\XMLParsing\XMLParsing\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Sitecore\MyTraining\XMLParsing\XMLParsing\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Sitecore\MyTraining\XMLParsing\XMLParsing\obj\Debug\XMLParsing.csprojResolveAssemblyReference.cache
+D:\Projects\Sitecore\MyTraining\XMLParsing\XMLParsing\obj\Debug\XMLParsing.exe
+D:\Projects\Sitecore\MyTraining\XMLParsing\XMLParsing\obj\Debug\XMLParsing.pdb
