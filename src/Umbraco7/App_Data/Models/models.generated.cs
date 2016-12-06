@@ -19,8 +19,8 @@ using Umbraco.ModelsBuilder;
 using Umbraco.ModelsBuilder.Umbraco;
 
 [assembly: PureLiveAssembly]
-[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "4e73d3a147a15351")]
-[assembly:System.Reflection.AssemblyVersion("0.0.0.1")]
+[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "f01e178d857d906a")]
+[assembly:System.Reflection.AssemblyVersion("0.0.0.2")]
 
 namespace Umbraco.Web.PublishedContentModels
 {
@@ -326,7 +326,7 @@ namespace Umbraco.Web.PublishedContentModels
 
 	/// <summary>CategoryPage</summary>
 	[PublishedContentModel("categoryPage")]
-	public partial class CategoryPage : PublishedContentModel
+	public partial class CategoryPage : NewsPage
 	{
 #pragma warning disable 0109 // new is redundant
 		public new const string ModelTypeAlias = "categoryPage";
@@ -348,65 +348,11 @@ namespace Umbraco.Web.PublishedContentModels
 		{
 			return PublishedContentModelUtility.GetModelPropertyType(GetModelContentType(), selector);
 		}
-
-		///<summary>
-		/// Body Footer Script
-		///</summary>
-		[ImplementPropertyType("bodyFooterScript")]
-		public string BodyFooterScript
-		{
-			get { return this.GetPropertyValue<string>("bodyFooterScript"); }
-		}
-
-		///<summary>
-		/// Header Script
-		///</summary>
-		[ImplementPropertyType("headerScript")]
-		public string HeaderScript
-		{
-			get { return this.GetPropertyValue<string>("headerScript"); }
-		}
-
-		///<summary>
-		/// Meta Description
-		///</summary>
-		[ImplementPropertyType("metaDescription")]
-		public string MetaDescription
-		{
-			get { return this.GetPropertyValue<string>("metaDescription"); }
-		}
-
-		///<summary>
-		/// MetaKeyword
-		///</summary>
-		[ImplementPropertyType("metaKeyword")]
-		public string MetaKeyword
-		{
-			get { return this.GetPropertyValue<string>("metaKeyword"); }
-		}
-
-		///<summary>
-		/// PageName
-		///</summary>
-		[ImplementPropertyType("pageName")]
-		public string PageName
-		{
-			get { return this.GetPropertyValue<string>("pageName"); }
-		}
-
-		///<summary>
-		/// PageTitle
-		///</summary>
-		[ImplementPropertyType("pageTitle")]
-		public string PageTitle
-		{
-			get { return this.GetPropertyValue<string>("pageTitle"); }
-		}
 	}
 
 	/// <summary>ArticlePage</summary>
 	[PublishedContentModel("articlePage")]
-	public partial class ArticlePage : PublishedContentModel
+	public partial class ArticlePage : CategoryPage
 	{
 #pragma warning disable 0109 // new is redundant
 		public new const string ModelTypeAlias = "articlePage";
@@ -475,15 +421,6 @@ namespace Umbraco.Web.PublishedContentModels
 		}
 
 		///<summary>
-		/// Body Footer Script
-		///</summary>
-		[ImplementPropertyType("bodyFooterScript")]
-		public string BodyFooterScript
-		{
-			get { return this.GetPropertyValue<string>("bodyFooterScript"); }
-		}
-
-		///<summary>
 		/// Date Created
 		///</summary>
 		[ImplementPropertyType("dateCreated")]
@@ -493,57 +430,12 @@ namespace Umbraco.Web.PublishedContentModels
 		}
 
 		///<summary>
-		/// Header Script
-		///</summary>
-		[ImplementPropertyType("headerScript")]
-		public string HeaderScript
-		{
-			get { return this.GetPropertyValue<string>("headerScript"); }
-		}
-
-		///<summary>
-		/// IsFeature
+		/// Is Feature
 		///</summary>
 		[ImplementPropertyType("isFeature")]
 		public bool IsFeature
 		{
 			get { return this.GetPropertyValue<bool>("isFeature"); }
-		}
-
-		///<summary>
-		/// Meta Description
-		///</summary>
-		[ImplementPropertyType("metaDescription")]
-		public string MetaDescription
-		{
-			get { return this.GetPropertyValue<string>("metaDescription"); }
-		}
-
-		///<summary>
-		/// MetaKeyword
-		///</summary>
-		[ImplementPropertyType("metaKeyword")]
-		public string MetaKeyword
-		{
-			get { return this.GetPropertyValue<string>("metaKeyword"); }
-		}
-
-		///<summary>
-		/// PageName
-		///</summary>
-		[ImplementPropertyType("pageName")]
-		public string PageName
-		{
-			get { return this.GetPropertyValue<string>("pageName"); }
-		}
-
-		///<summary>
-		/// PageTitle
-		///</summary>
-		[ImplementPropertyType("pageTitle")]
-		public string PageTitle
-		{
-			get { return this.GetPropertyValue<string>("pageTitle"); }
 		}
 
 		///<summary>

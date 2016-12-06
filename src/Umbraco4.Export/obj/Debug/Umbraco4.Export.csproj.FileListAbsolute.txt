@@ -7,3 +7,12 @@ D:\Projects\Umbraco7\Umbraco4.Export\obj\Debug\Umbraco4.Export.csprojResolveAsse
 D:\Projects\Umbraco7\Umbraco4.Export\obj\Debug\Umbraco4.Export.exe
 D:\Projects\Umbraco7\Umbraco4.Export\obj\Debug\Umbraco4.Export.pdb
 D:\Projects\Umbraco7\Umbraco4.Export\bin\Debug\App_Data\umbraco.config
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco4.Export\bin\Debug\App_Data\umbraco.config
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco4.Export\bin\Debug\Umbraco4.Export.exe.config
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco4.Export\bin\Debug\Umbraco4.Export.exe
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco4.Export\bin\Debug\Umbraco4.Export.pdb
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco4.Export\bin\Debug\Newtonsoft.Json.dll
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco4.Export\bin\Debug\Newtonsoft.Json.xml
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco4.Export\obj\Debug\Umbraco4.Export.csprojResolveAssemblyReference.cache
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco4.Export\obj\Debug\Umbraco4.Export.exe
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco4.Export\obj\Debug\Umbraco4.Export.pdb

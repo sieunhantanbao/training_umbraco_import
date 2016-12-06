@@ -11,3 +11,16 @@ D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\System.Net.Http.Formatting.xml
 D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\App.config
 D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\App_Data\EnglishNews.json
 D:\Projects\Umbraco7\Umbraco7.Import\bin\Debug\App_Data\JapaneseNews.json
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco7.Import\bin\Debug\App.config
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco7.Import\bin\Debug\App_Data\EnglishNews.json
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco7.Import\bin\Debug\App_Data\JapaneseNews.json
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco7.Import\bin\Debug\Umbraco7.Import.exe.config
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco7.Import\bin\Debug\Umbraco7.Import.exe
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco7.Import\bin\Debug\Umbraco7.Import.pdb
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco7.Import\bin\Debug\Newtonsoft.Json.dll
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco7.Import\bin\Debug\System.Net.Http.Formatting.dll
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco7.Import\bin\Debug\Newtonsoft.Json.xml
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco7.Import\bin\Debug\System.Net.Http.Formatting.xml
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco7.Import\obj\Debug\Umbraco7.Import.csprojResolveAssemblyReference.cache
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco7.Import\obj\Debug\Umbraco7.Import.exe
+D:\MyTraining\UmbracoImportExport\training_umbraco_import\src\Umbraco7.Import\obj\Debug\Umbraco7.Import.pdb
